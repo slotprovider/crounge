@@ -1,0 +1,60 @@
+symbol.png
+size:1248,240
+filter:Linear,Linear
+pma:true
+scale:0.5
+Body
+bounds:619,71,167,105
+rotate:90
+CloseEyes
+bounds:448,15,47,18
+Electric 1
+bounds:988,44,44,44
+Electric 10
+bounds:1034,68,37,37
+Electric 2
+bounds:740,2,77,84
+Electric 3
+bounds:1088,5,100,111
+rotate:90
+Electric 4
+bounds:1126,115,117,123
+Electric 5
+bounds:866,90,138,148
+Electric 6
+bounds:726,88,138,150
+Electric 7
+bounds:1006,107,131,118
+rotate:90
+Electric 8
+bounds:619,5,68,64
+Electric 9
+bounds:689,10,49,59
+Hair_1
+bounds:988,4,38,98
+rotate:90
+Hair_2
+bounds:1201,2,42,111
+Hair_3
+bounds:819,29,57,108
+rotate:90
+Hair_4
+bounds:929,3,57,85
+Head
+bounds:448,35,169,203
+L_Eye
+bounds:40,6,9,9
+LowerLip
+bounds:2,3,25,12
+Mouth
+bounds:79,8,21,7
+R_Eye
+bounds:29,5,9,10
+UnderGlow
+bounds:2,17,221,221
+UpperLip
+bounds:51,7,26,8
+WhiteEye
+bounds:497,17,43,16
+WhiteGlow
+bounds:225,17,221,221
