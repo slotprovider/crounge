@@ -1,60 +1,60 @@
 symbol.png
-size:1248,240
+size:1140,524
 filter:Linear,Linear
 pma:true
-scale:0.5
 Body
-bounds:619,71,167,105
-rotate:90
+bounds:976,421,159,101
 CloseEyes
-bounds:448,15,47,18
+bounds:570,233,64,25
 Electric 1
-bounds:988,44,44,44
+bounds:952,24,87,87
 Electric 10
-bounds:1034,68,37,37
+bounds:796,261,73,73
 Electric 2
-bounds:740,2,77,84
+bounds:976,113,153,168
 Electric 3
-bounds:1088,5,100,111
-rotate:90
+bounds:422,2,199,222
 Electric 4
-bounds:1126,115,117,123
+bounds:636,13,234,245
 Electric 5
-bounds:866,90,138,148
+bounds:280,226,276,296
 Electric 6
-bounds:726,88,138,150
+bounds:2,223,276,299
 Electric 7
-bounds:1006,107,131,118
+bounds:558,260,262,236
 rotate:90
 Electric 8
-bounds:619,5,68,64
-Electric 9
-bounds:689,10,49,59
-Hair_1
-bounds:988,4,38,98
+bounds:1007,283,136,127
 rotate:90
+Electric 9
+bounds:872,140,98,118
+Hair_1
+bounds:914,20,36,91
 Hair_2
-bounds:1201,2,42,111
+bounds:872,6,40,105
 Hair_3
-bounds:819,29,57,108
+bounds:871,278,56,103
 rotate:90
 Hair_4
-bounds:929,3,57,85
+bounds:951,337,54,82
 Head
-bounds:448,35,169,203
+bounds:796,336,153,186
 L_Eye
-bounds:40,6,9,9
+bounds:623,221,10,11
+rotate:90
 LowerLip
-bounds:2,3,25,12
+bounds:976,322,25,13
 Mouth
-bounds:79,8,21,7
+bounds:2,2,21,8
 R_Eye
-bounds:29,5,9,10
+bounds:623,209,10,11
+rotate:90
 UnderGlow
-bounds:2,17,221,221
+bounds:2,12,208,209
 UpperLip
-bounds:51,7,26,8
+bounds:558,231,27,10
+rotate:90
 WhiteEye
-bounds:497,17,43,16
+bounds:871,260,41,16
 WhiteGlow
-bounds:225,17,221,221
+bounds:212,12,208,209
